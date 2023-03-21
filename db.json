@@ -1,0 +1,21 @@
+{
+  "usuarios": [
+    {
+      "email": "fe@gmail.com",
+      "password": "1234"
+    },
+    {
+      "email": "arthur@gmail.com",
+      "password": "1234"
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "jogo 1",
+      "descricao": "fdsf",
+      "foto": "jogo1.PNG",
+      "preco": 5000
+    }
+  ]
+}
